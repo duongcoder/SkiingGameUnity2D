@@ -1,0 +1,1 @@
+This is a personal 2D game project built by unity engine. It describes the skiing game in unity, the player tries to control the character to reach the finish line. (This is only the first version of the game, there will be future updates).
